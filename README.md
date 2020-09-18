@@ -1,2 +1,2 @@
-# Diskspace
-Diskspace cron job
+# Icinga alert for VNC licence
+ cron job
